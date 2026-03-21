@@ -14,10 +14,10 @@ def longestPalindrome(s):
     max_s = ''
     for cur in range(len(s)):
         if cur + 1 < len(s) and s[cur] == s[cur + 1]:
-            cur_s = self.getPalindrome(s, s[cur] + s[cur + 1], cur, 0, 1)
+            cur_s = getPalindrome(s, s[cur] + s[cur + 1], cur, 0, 1)
             if len(cur_s) > len(max_s):
                 max_s = cur_s
-        cur_s = self.getPalindrome(s, s[cur], cur, 0, 0)
+        cur_s = getPalindrome(s, s[cur], cur, 0, 0)
         if len(cur_s) > len(max_s):
             max_s = cur_s
     return max_s
