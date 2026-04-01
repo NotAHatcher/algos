@@ -8,4 +8,3 @@ class Solution:
             if k>0:
                 p+=self.generateParenthesis(n, stack+')',k-1)
             return p
-print(Solution.generateParenthesis(4))

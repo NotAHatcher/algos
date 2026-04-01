@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac92def-30a0-4e77-82c4-9ac28e2d488f" name="Changes" comment="lab2">
-      <change afterPath="$PROJECT_DIR$/#1700.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/#2073.py" afterDir="false" />
+    <list default="true" id="eac92def-30a0-4e77-82c4-9ac28e2d488f" name="Changes" comment="cl/w">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/#22.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/#22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hatcher\PycharmProjects\algos" />
       <recent name="C:\Users\hatcher\PycharmProjects\algos\lab2" />
     </key>
   </component>
@@ -119,13 +119,22 @@
       <option name="project" value="LOCAL" />
       <updated>1774664838925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cl/w">
+      <option name="closed" value="true" />
+      <created>1774667115980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774667115980</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cl/w 1" />
     <MESSAGE value="lab and else" />
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="cl/w" />
+    <option name="LAST_COMMIT_MESSAGE" value="cl/w" />
   </component>
 </project>
