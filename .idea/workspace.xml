@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac92def-30a0-4e77-82c4-9ac28e2d488f" name="Changes" comment="22">
+    <list default="true" id="eac92def-30a0-4e77-82c4-9ac28e2d488f" name="Changes" comment="lab4">
+      <change afterPath="$PROJECT_DIR$/35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/#102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/#104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/#226.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/#235.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/#98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/#133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/#200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/#207.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/#417.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,25 +57,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.#1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#121.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#125.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#150.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#242.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#643.executor&quot;: &quot;Run&quot;,
-    &quot;Python.#977.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classwork1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.#1.executor": "Run",
+    "Python.#121.executor": "Run",
+    "Python.#125.executor": "Run",
+    "Python.#150.executor": "Run",
+    "Python.#22.executor": "Run",
+    "Python.#242.executor": "Run",
+    "Python.#3.executor": "Run",
+    "Python.#643.executor": "Run",
+    "Python.#977.executor": "Run",
+    "Python.#98.executor": "Run",
+    "Python.128.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.33.executor": "Run",
+    "Python.347.executor": "Run",
+    "Python.49.executor": "Run",
+    "Python.704.executor": "Run",
+    "Python.875.executor": "Run",
+    "Python.classwork1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hatcher\PycharmProjects\algos" />
@@ -134,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775040668782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab3">
+      <option name="closed" value="true" />
+      <created>1776434402022</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776434402022</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lab4">
+      <option name="closed" value="true" />
+      <created>1778300659685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778300659685</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +177,8 @@
     <MESSAGE value="lab2" />
     <MESSAGE value="cl/w" />
     <MESSAGE value="22" />
-    <option name="LAST_COMMIT_MESSAGE" value="22" />
+    <MESSAGE value="lab3" />
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
 </project>
